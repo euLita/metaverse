@@ -3,7 +3,7 @@
 First class - 2024-07-24
 |-
 
-Conhecendo a plataforma, as ferramentas que iremos usar no projeto.
+Conhecendo a plataforma, e ferramentas que serao usadas no projeto.
 
 - - Unity Hub 3.8.0
 - Conta de desenvolvedor
@@ -13,7 +13,7 @@ Conhecendo a plataforma, as ferramentas que iremos usar no projeto.
     - plataform - Android
   - Build Settings
     - Scenes/SampleScene
-*pegar o mesmo notbook: Odisey 2.0/01
+*desktop: Odisey 2.0/01
 
 ![image](image.png)
 
